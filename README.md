@@ -1,4 +1,4 @@
-# hello-world
-I am a newbie in this area. I am interested to study more about graph analytics. 
-I am PHD Student from UTeM under Faculti of Information and Communication Technology.
-Hopefully, I can fulfill all the requirements needed for this journey.
+# DCDBFE_Dynamic Community Detection based on Bird Flock Effect
+
+Please try this algorithm for further investigation in any field. 
+Do not hesitate to contact me at this email: sitiharyanti@utem.edu.my.
